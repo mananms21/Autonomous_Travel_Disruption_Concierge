@@ -1,0 +1,20 @@
+[
+  {"hotel_id": "H001", "hotel_name": "Grand Central Hotel", "city_id": "NYC",
+   "nightly_rate": 219.0, "star_rating": 4.0, "distance_km": 1.2,
+   "brand_match": true, "free_cancellation": true},
+  {"hotel_id": "H002", "hotel_name": "Airport Inn Express", "city_id": "NYC",
+   "nightly_rate": 129.0, "star_rating": 3.0, "distance_km": 8.5,
+   "brand_match": false, "free_cancellation": false},
+  {"hotel_id": "H003", "hotel_name": "Amex Fine Hosts Downtown", "city_id": "NYC",
+   "nightly_rate": 275.0, "star_rating": 4.5, "distance_km": 2.0,
+   "brand_match": true, "free_cancellation": true},
+  {"hotel_id": "H004", "hotel_name": "Budget Stay NYC", "city_id": "NYC",
+   "nightly_rate": 95.0, "star_rating": 1.5, "distance_km": 12.0,
+   "brand_match": false, "free_cancellation": false},
+  {"hotel_id": "H005", "hotel_name": "Riverside Suites", "city_id": "ORD",
+   "nightly_rate": 165.0, "star_rating": 3.5, "distance_km": 5.0,
+   "brand_match": false, "free_cancellation": true},
+  {"hotel_id": "H006", "hotel_name": "O'Hare Business Hotel", "city_id": "ORD",
+   "nightly_rate": 189.0, "star_rating": 4.0, "distance_km": 1.5,
+   "brand_match": true, "free_cancellation": true}
+]
